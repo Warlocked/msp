@@ -2,7 +2,7 @@
 just day
 {
 	"room": "Moon Shaped Pool",
-	"css": "https://rawgit.com/BotFarofa/farofatheme/master/frf.css",
+	"css": "https://rawgit.com/Warlocked/msptheme/master/frf.css",
 	"rules": {
             "allowAutorespond":     true,
             "allowAutowoot":        true,
